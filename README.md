@@ -68,7 +68,7 @@ code $Profile
 notepad $profile
 ```
 5. Copy toàn bộ nội dung của file [Microsoft.PowerShell_profile.ps1](https://github.com/FoxMinChan/Powershell_Themes/blob/main/Microsoft.PowerShell_profile.ps1) vào. Sau đó save nó lại
-6. Reset Powershell điều chỉnh phông chữ dã chuẩn bị cho phù hợp, tránh bị lỗi phông
+6. Reset Powershell, sau đó điều chỉnh phông chữ dã chuẩn bị cho phù hợp, tránh bị lỗi phông
 
 ### _Credit_
 
