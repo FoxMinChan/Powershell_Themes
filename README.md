@@ -22,7 +22,7 @@ _Here is a picture of Powershell after being adjusted:_
 
 ##### _Command to install posh-git_
 
-```cmdlet
+```powershell
 Install-Module -Name posh-git -AllowPrerelease -Force
 ```
 
@@ -31,7 +31,7 @@ If `-AllowPrerelease` s not available, please update the **PowershellGet** modul
 
 ##### _Command to update PowershellGet_
 
-```cmdlet
+```powershell
 Install-Module -Name PowerShellGet -Force
 ```
 
@@ -71,7 +71,7 @@ After completing the preparation steps, we proceed to install the theme as follo
 
 1. Paste this command into your shell and press Enter.
 
-```bash
+```git
 git clone https://github.com/FoxMinChan/Powershell_Themes.git
 ```
 
