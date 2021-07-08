@@ -12,7 +12,7 @@ _Here is a picture of Powershell after being adjusted:_
 
 ##### _Command to check PSReadLine version_
 
-```cmdlet
+```powershell
 (Get-Module PSReadLine).Version.Major
 ```
 
