@@ -71,7 +71,7 @@ After completing the preparation steps, we proceed to install the theme as follo
 
 1. Paste this command into your shell and press Enter.
 
-```powershell
+```bash
 git clone https://github.com/FoxMinChan/Powershell_Themes.git
 ```
 
